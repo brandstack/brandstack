@@ -1,5 +1,7 @@
 # BrandStack
 
+The tech startup stack.
+
 Tech Stack | Technologies
 ----- | ------------
 Product | [Swift](https://www.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Kotlin](https://kotlinlang.org/), [Jetpack Compose](https://developer.android.com/jetpack/compose)
