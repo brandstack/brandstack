@@ -2,7 +2,7 @@
 
 The mobile brand starter stack.
 
-Tech Stack | Technologies
+Stack | Technologies
 ----- | ------------
 Back End | [Go](https://golang.org/), [Google Cloud](https://cloud.google.com/), [Firebase](https://firebase.google.com/)
 Front End | [TypeScript](https://www.typescriptlang.org/), [Vercel](https://vercel.com/), [Next.js](https://nextjs.org/)
