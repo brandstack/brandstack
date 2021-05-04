@@ -4,7 +4,7 @@ The app brand starter stack.
 
 Stack | Technologies
 ----- | ------------
-Backend | [Go](https://golang.org/), [Google Cloud](https://cloud.google.com/), [Firebase](https://firebase.google.com/)
-Frontend | [TypeScript](https://www.typescriptlang.org/), [Vercel](https://vercel.com/), [Next.js](https://nextjs.org/)
-iOS | [Swift](https://www.apple.com/swift/), [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-Android | [Kotlin](https://kotlinlang.org/), [Jetpack Compose](https://developer.android.com/jetpack/compose)
+Backend | [Kubernetes](https://kubernetes.io/), [Google Cloud](https://cloud.google.com/), [Firebase](https://firebase.google.com/), [Go](https://golang.org/)
+Frontend | [Next.js](https://nextjs.org/), [Vercel](https://vercel.com/), [TypeScript](https://www.typescriptlang.org/)
+iOS | [SwiftUI](https://developer.apple.com/xcode/swiftui/), [Combine](https://developer.apple.com/documentation/combine), [Core Data](https://developer.apple.com/documentation/coredata), [Swift](https://www.apple.com/swift/)
+Android | [Jetpack Compose](https://developer.android.com/jetpack/compose), [Jetpack](https://developer.android.com/jetpack), [Kotlin](https://kotlinlang.org/), 
