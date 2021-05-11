@@ -5,7 +5,7 @@ Stack | Technologies
 -------- | ------------
 Language | [Swift](https://www.apple.com/swift/)
 User Interface | [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-Frameworks | [Combine](https://developer.apple.com/documentation/combine), [Core Data](https://developer.apple.com/documentation/coredata), 
+Frameworks | [Combine](https://developer.apple.com/documentation/combine), [Core Data](https://developer.apple.com/documentation/coredata)
 
 ## Android
 Stack | Technologies
